@@ -1,3 +1,3 @@
 # Cattie
 Final project for Webproduction1 ccsf spring 2015
-URL: http://myeche.github.io/Cattie
+URL: http://myeche.github.io/cattie
