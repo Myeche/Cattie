@@ -35,6 +35,9 @@ hr {
     max-width: 400px;
     border-color: #999999;
 }
+a:hover {
+    text-decoration: none;
+}
 .atie{
     color: #000000;
     text-decoration: none;
