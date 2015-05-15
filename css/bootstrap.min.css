@@ -2228,7 +2228,7 @@ input[type=search] {
 }
 input[type=checkbox],input[type=radio] {
 	margin:4px 0 0;
-	margin-top:1px \9;
+	margin-top:1px;
 	line-height:normal
 }
 input[type=file] {
@@ -2300,6 +2300,7 @@ textarea.form-control {
 input[type=search] {
 	-webkit-appearance:none
 }
+/*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	input[type=date],input[type=time],input[type=datetime-local],input[type=month] {
 		line-height:34px
@@ -2311,6 +2312,7 @@ input[type=search] {
 		line-height:46px
 	}
 }
+*/
 .form-group {
 	margin-bottom:15px
 }
@@ -2329,7 +2331,7 @@ input[type=search] {
 }
 .checkbox input[type=checkbox],.checkbox-inline input[type=checkbox],.radio input[type=radio],.radio-inline input[type=radio] {
 	position:absolute;
-	margin-top:4px \9;
+	margin-top:4px;
 	margin-left:-20px
 }
 .checkbox+.checkbox,.radio+.radio {
